@@ -1,0 +1,26 @@
+.container{
+    width: 100%;
+    text-align: center;
+}
+.itemContainer{
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+    gap: 2rem;
+    margin: 0 auto;
+    margin-top: 3rem;
+
+}
+.add{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+.btn{
+    color: black;
+}
+.cardList{
+    margin-top: 3rem;
+}
